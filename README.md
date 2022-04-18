@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Electronic Engineering.
 - 📫 How to reach me: Via e-mail. `root[at]h3a[dot]moe`
-- 🔒 PGP: Get it from [OpenPGP keypool](https://keys.openpgp.org/vks/v1/by-fingerprint/364864A3A1AF4174D9BDE7C66076CBBA23E98A57) or [GitHub](https://github.com/H3arn.gpg). Fingerprint: `3648 64A3 A1AF 4174 D9BD E7C6 6076 CBBA 23E9 8A57` 
+- 🔒 PGP: Get it from [OpenPGP keypool](https://keys.openpgp.org/vks/v1/by-fingerprint/364864A3A1AF4174D9BDE7C66076CBBA23E98A57) or [GitHub](https://github.com/H3arn.gpg). 
+  
+  Fingerprint: `3648 64A3 A1AF 4174 D9BD E7C6 6076 CBBA 23E9 8A57` 
 - 😄 Pronouns: he/him/she/her/they/them... Doesn't matter.
 
 ## GitHub Stats
