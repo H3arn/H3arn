@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: 
 
-  he/him
+  he/him/she/her/they/them... Doesn't matter. 
 
-<!--- 
-/she/her/they/them... Doesn't matter. 
--->
 ## GitHub Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=H3arn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
