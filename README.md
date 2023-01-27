@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 - 🔒 PGP: 
   
-  Get it from [OpenPGP keypool](https://keys.openpgp.org/vks/v1/by-fingerprint/364864A3A1AF4174D9BDE7C66076CBBA23E98A57) or [GitHub](https://github.com/H3arn.gpg). 
+  **Please check https://h3a.moe/about#pgp before importing my public keys.**
+  
+  Get it from [GitHub](https://github.com/H3arn.gpg) / [Gitlab](https://gitlab.com/H3arn.gpg) / [Keybase](https://keybase.io/h3arn/pgp_keys.asc). 
   
   Fingerprint: `3648 64A3 A1AF 4174 D9BD E7C6 6076 CBBA 23E9 8A57` 
 
