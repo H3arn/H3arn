@@ -18,6 +18,8 @@ Touching fish & Writing stories
 
 Via e-mail. `root[at]h3a[dot]moe`
 
+Via matrix. `h3arn:nitro.chat` or the other accounts listed [here](https://h3a.moe/about/#contact). 
+
 ### 🔒 PGP: 
   
 **Please check https://h3a.moe/about#pgp before importing my public keys.**
