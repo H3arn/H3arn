@@ -13,6 +13,7 @@ I am a liberal arts student, hence not familiar with computer-related technologi
 ### 🌱 What I am learning:
 
 - Touching fish
+
 - Writing stories
 
 ### 📫 How to reach me: 
@@ -23,11 +24,11 @@ I am a liberal arts student, hence not familiar with computer-related technologi
 
 ### 🔒 PGP: 
   
-**Please check https://h3a.moe/about#pgp before importing my public keys.**
+- **Please check https://h3a.moe/about#pgp before importing my public keys.**
   
-Get it from [GitHub](https://github.com/H3arn.gpg) / [Gitlab](https://gitlab.com/H3arn.gpg) / [Keybase](https://keybase.io/h3arn/pgp_keys.asc). 
+- Get it from [GitHub](https://github.com/H3arn.gpg) / [Gitlab](https://gitlab.com/H3arn.gpg) / [Keybase](https://keybase.io/h3arn/pgp_keys.asc). 
   
-Fingerprint: `3648 64A3 A1AF 4174 D9BD E7C6 6076 CBBA 23E9 8A57` 
+- Fingerprint: `3648 64A3 A1AF 4174 D9BD E7C6 6076 CBBA 23E9 8A57` 
 
 
 <!---
