@@ -12,13 +12,14 @@ I am a liberal arts student, hence not familiar with computer-related technologi
 
 ### 🌱 What I am learning:
 
-Touching fish & Writing stories
+- Touching fish
+- Writing stories
 
 ### 📫 How to reach me: 
 
-Via e-mail. `root[at]h3a[dot]moe`
+- E-mail: `root[at]h3a[dot]moe`
 
-Via matrix. `h3arn : nitro.chat` or the other accounts listed [here](https://h3a.moe/about/#contact). 
+- Via matrix. `h3arn:nitro[dot]chat` or the other accounts listed [here](https://h3a.moe/about/#contact). 
 
 ### 🔒 PGP: 
   
