@@ -1,4 +1,4 @@
-# Hi there, This is `H3arn`. 
+# Hi there, this is `H3arn`. 
 
 <!--👋
 **H3arn/H3arn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,7 @@ But I am kind of interested in them, trying my best to learn some basic knowledg
 
   - `3648 64A3 A1AF 4174 D9BD E7C6 6076 CBBA 23E9 8A57`
 
-  - `5D7F EC98 7ED4 E84C BB61 EA87 50F7 17A4 F375 1014` (On my Apple devices)
+  - `5D7F EC98 7ED4 E84C BB61 EA87 50F7 17A4 F375 1014` (On my Apple devices, deprecated but present for vigilant mode.)
 
 
 <!---
